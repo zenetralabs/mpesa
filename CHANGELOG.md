@@ -11,3 +11,7 @@
     - Added `Check Transaction Status` service
     - Added `Check mpesa business accounts Balance` service
     - Bug fixes
+
+## 0.3.0 /2024-12-14
+
+    - Fix TypeScript type definitions
