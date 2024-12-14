@@ -21,6 +21,7 @@ export type MpesaConfigType = {
     username: string
     password: string
     passkey: string
+    certFolderPath: string
 }
 
 export type MpesaSTKResponseType = {

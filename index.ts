@@ -1,7 +1,7 @@
 /*!
  * @zenetralabs/mpesa
  *
- * Copyright(c) 20245 Mpesa.
+ * Copyright(c) 2024 Mpesa.
  *
  * MIT Licensed
  */
