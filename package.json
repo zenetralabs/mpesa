@@ -39,7 +39,8 @@
     },
     "homepage": "https://github.com/zenetralabs/mpesa#readme",
     "dependencies": {
-        "axios": "^1.7.9"
+        "axios": "^1.7.9",
+        "date-fns": "^4.1.0"
     },
     "devDependencies": {
         "@types/node": "^22.10.2"
