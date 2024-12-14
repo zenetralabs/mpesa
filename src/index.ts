@@ -6,5 +6,5 @@
  * MIT Licensed
  */
 
- export * from './src/mpesa';
- export * from './src/types'
+ export * from './mpesa';
+ export * from './types'
