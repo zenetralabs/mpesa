@@ -1,0 +1,41 @@
+{
+    "name": "@zenetralabs/mpesa",
+    "version": "0.1.0",
+    "contributors": [
+        {
+            "name": "Abel Misiocha",
+            "email": "abel@zenetralabs.com"
+        }
+    ],
+    "description": "A functional simple mpesa node sdk, with typescript support",
+    "main": "index.js",
+    "module": "index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zenetralabs/mpesa.git"
+    },
+    "keywords": [
+        "mpesa",
+        "mpesa sdk",
+        "mpesa node sdk",
+        "mpesa node",
+        "mpesa nodejs"
+    ],
+    "author": "Zenetra Labs",
+    "license": "MIT",
+    "files": [
+        "LICENSE",
+        "CHANGELOG.md",
+        "README.md",
+        "index.js",
+        "index.d.ts",
+        "package.json"
+    ],
+    "bugs": {
+        "url": "https://github.com/zenetralabs/mpesa/issues"
+    },
+    "homepage": "https://github.com/zenetralabs/mpesa#readme"
+}
