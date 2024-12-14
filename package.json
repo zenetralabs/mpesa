@@ -37,5 +37,11 @@
     "bugs": {
         "url": "https://github.com/zenetralabs/mpesa/issues"
     },
-    "homepage": "https://github.com/zenetralabs/mpesa#readme"
+    "homepage": "https://github.com/zenetralabs/mpesa#readme",
+    "dependencies": {
+        "axios": "^1.7.9"
+    },
+    "devDependencies": {
+        "@types/node": "^22.10.2"
+    }
 }
