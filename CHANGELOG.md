@@ -4,7 +4,7 @@
 
     - Initial release
 
-## 0.1.1 /2024-12-14
+## 0.2.0 /2024-12-14
 
     - Added `STK Push` service
     - Added `B2C` service
