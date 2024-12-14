@@ -26,14 +26,6 @@
     ],
     "author": "Zenetra Labs",
     "license": "MIT",
-    "files": [
-        "LICENSE",
-        "CHANGELOG.md",
-        "README.md",
-        "index.js",
-        "index.d.ts",
-        "package.json"
-    ],
     "bugs": {
         "url": "https://github.com/zenetralabs/mpesa/issues"
     },
