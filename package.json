@@ -1,6 +1,6 @@
 {
     "name": "@zenetralabs/mpesa",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "contributors": [
         {
             "name": "Abel Misiocha",
@@ -8,8 +8,9 @@
         }
     ],
     "description": "A functional simple mpesa node sdk, with typescript support",
-    "main": "index.js",
-    "module": "index.js",
+    "main": "./lib/index.js",
+    "module": "./lib/index.js",
+    "types": "./lib/index.d.ts",
     "scripts": {
         "build": "tsc"
     },
@@ -31,6 +32,7 @@
     },
     "homepage": "https://github.com/zenetralabs/mpesa#readme",
     "dependencies": {
+        "@zenetralabs/mpesa": "^0.2.1",
         "axios": "^1.7.9",
         "date-fns": "^4.1.0"
     },
